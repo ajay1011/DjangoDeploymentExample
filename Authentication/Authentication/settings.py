@@ -27,7 +27,7 @@ SECRET_KEY = 'iw7o=+ogr(l09tbjgk-6)mnn(pq$#7v=j!+xfaa-o===in^w%y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["'ajay1011.pythonanywhere.com"]
+ALLOWED_HOSTS = ["ajay1011.pythonanywhere.com"]
 
 
 # Application definition
